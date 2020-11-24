@@ -1,0 +1,31 @@
+
+    // I ended at the animation sequence for the navigation bar,
+    //which i not completed yet.
+    // missing:
+    // stile of navigation bar and maybe the name field
+
+    22.10.2020
+    // currently in duscussion with myself about the navigation menu...
+    // i want it to be in a block like buttons                                 <- Hotbar
+    // it then should be on the very bottom of the picture
+    // the name schould be over it with a total of 20px over the menu.
+    // over it the prtpic is placed
+
+    // 1. place the navigation elements in a Hotbar which is at the very bottom of the elpic element.
+    // 1.1 Create a Hotbar Element and design it.               <- Only css needed
+    // there i created a block with lightblue color which is used as a 
+    // hotbar. when on hover: the background changes color to rgb(101, 145, 160)
+    // if active the background color gets same color as on hover.
+    // the font size is 20px ehich looks okay under the 36px name
+    // all thats left is to place the hotbar in the elpic element.
+
+    // 1.2 Place the navigation elements in the Hotbar.
+    // already had them in but this was a opportunity to check it
+
+    // 1.3 place the Hotbar at the bottom of the elpic element 
+    //
+    BANANATIME :D
+    // 2 Place the name element over the Hotbar and give it a distance of 20px from the bottom
+    
+    // 3 Place the prtpic element 20px over the name element 
+    // The stream is now paused for about 1 hour 15:22
