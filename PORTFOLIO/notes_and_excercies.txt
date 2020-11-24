@@ -3,8 +3,8 @@
     //which i not completed yet.
     // missing:
     // stile of navigation bar and maybe the name field
-
-    22.10.2020
+    ////////////////////////////////////////////////////////////////
+    // 22.10.2020 Livestream
     // currently in duscussion with myself about the navigation menu...
     // i want it to be in a block like buttons                                 <- Hotbar
     // it then should be on the very bottom of the picture
@@ -22,10 +22,44 @@
     // 1.2 Place the navigation elements in the Hotbar.
     // already had them in but this was a opportunity to check it
 
-    // 1.3 place the Hotbar at the bottom of the elpic element 
-    //
-    BANANATIME :D
-    // 2 Place the name element over the Hotbar and give it a distance of 20px from the bottom
+    // 1.3 place the Hotbar under the elpic element 
+    // I will now change the size of the prtpic so it isn't that huge
     
-    // 3 Place the prtpic element 20px over the name element 
-    // The stream is now paused for about 1 hour 15:22
+    // 2. Place the name element over the Hotbar
+    // Did it 
+    // 3. Place the prtpic element 20px over the name element 
+    // we don#t need it bcs the background is ne in a smaler dimension
+    //////////////////////////////////////////////////////////////////
+
+    // 24.11.2020 Livestream
+    // Now that I added a Hotbar element and placed everything I needed
+    // I can focus on the Style of the hotbar
+    
+    // 1. Design the Hotbar 
+    // This should be enough for now. I will upload the project to github
+    // then i will do more things on this project :D
+
+
+    //////////////////////////////////////////////////////////////////////
+    // NEXT STEPS
+    // 1. Create a new HTML File "About me" and link it to the Hotbar.
+    // CHECK
+    // 1.1 Add text about me and place some images in it.
+    // 1.2 make it look fancy so it dosn't look boring
+
+    // 2. Create a new HTML File "Languages" and link it to the Hotbar.
+    // CHECK
+    // 2.1 Add text about me and place some images in it.
+    // 2.2 make it look fancy so it dosn't look boring
+    
+    // 3. Create a new HTML File "Links" and link it to the Hotbar.
+    // CHECK
+    // 3.1 Add text about me and place some images in it.
+    // 3.2 make it look fancy so it dosn't look boring
+
+    // 4. Create a new HTML File "Contact" and link it to the Hotbar.
+    // CHECK
+    // 4.1 Add text about me and place some images in it.
+    // 4.2 make it look fancy so it dosn't look boring
+
+    // 5. Fill the page with content so it isn't taht empty
