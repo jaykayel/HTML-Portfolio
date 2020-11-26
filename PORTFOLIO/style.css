@@ -3,7 +3,7 @@
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png);
+    background: url(media/pictures/background.png);
     text-align: center;
 }
 #main {
@@ -25,40 +25,59 @@ button:hover {
 }
 #hotbar {
     position: center;
+    margin: 0px;
+    padding: 0px;
 }
-.hotbar {
+nav {
     overflow: hidden;
     position: center;
     display: inline-block;
     font-size: 26px;
-    text-align: center;
 }
-.hotbar a {
+nav li {
+    display: inline;
+    float: left;
+    margin: 0%;
+    padding: 0%;
+}
+nav a {
     text-decoration: none;
     color: black;
+    display: block;
+    padding: 8px;
+    margin-top: 0px;
 }
-.hotbar a:hover {
+nav a:hover {
     background-color: #7f8c8d;
     color: black;
 }
-.hotbar a.active {
-    background-color: #7f8c8d;
+nav a.active {
+    background-color:yellow;
     color: black;
 }
 #hbe1 {
-    border-top: solid 20px yellow;
+    border-top: solid 3px orange;
 }
 #hbe2 {
-    border-top: solid 20px red;
+    border-top: solid 3px red;
 }
 #hbe3 {
-    border-top: solid 20px orange;
+    border-top: solid 3px orange;
 }
 #hbe4 {
-    border-top: solid 20px orangered;
+    border-top: solid 3px red;
 }
 #hbe5 {
-    border-top: solid 20px yellow;
+    border-top: solid 3px orange;
+}
+ol li {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+nav ol {
+    margin: 0%;
+    padding: 0%;
 }
 .elpic {
     position: relative;
@@ -66,6 +85,8 @@ button:hover {
     justify-content: center;
     align-items: center;
     background: url(media/pictures/electronics.png);
+    margin: 0%;
+    padding: 0%;
 }
 #prtpic {
     position: relative;
@@ -73,7 +94,7 @@ button:hover {
 }
 .name {
     position: center;
-    background-color: rgb(71, 60, 60);
+    background-color: none;
     color: white;
     display: block;
     font-size: 32px;
