@@ -9,6 +9,7 @@ body {
 #main {
     max-width: 800px;
     margin: auto;
+    text-align: left;
 }
 button {
     border-radius: 5px;

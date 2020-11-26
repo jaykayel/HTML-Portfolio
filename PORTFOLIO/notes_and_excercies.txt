@@ -62,4 +62,47 @@
     // 4.1 Add text about me and place some images in it.
     // 4.2 make it look fancy so it dosn't look boring
 
+    // 26.11.2020
+    // I found a wiki like site where i get detailed information about
+    // thematics i need to know about
+
+    // And btw i now can use all 10 fingers again.
+    // If you didn't know i had a broken finger now i can use it again :D
+
+    // So what i was looking for was the hotbar. I created it but wasn't sure
+    // if i did it right. so i decided to get it right. I use the website explained earlier
+    // Its URL:
+    // https://www.w3.org/
+    // And now I'm going to style my code :D
+
+    // There we are... i need to change the div to nav and rewrite the code since I need
+    // to edit the stylesheet too...
+
+    // now that i deleted the id of hotbar and replacced the div to nav i onlyx needed
+    // to change the CSS code which was standing for the hotbar.
+    // now there is n longer an id of hotbar, only class hotbar for future porpuses :D
+
+    // this links are dead :(
+    // but that dosn't matter bcs the theory without examples can be enough maybe...
+    // the next thing i do is to change the anchor elements to a list so the code format is 
+    // like it should be
+    // this does not look good
+    // i see my mistake.. i need to put the anchor elements inside the list element
+    // so the link funktion works
+    // thanks that Stackoverflow exists :D 
+    // tot better viualize myproblem i now have added a black background
+    // i just need to print the list horizontal instead of vertical
+    // now i need to set the bottom margin and padding of elpic to 0px
+    // and the top margin and padding also
+    // maybei should also change the class active color something different 
+    // currently it is  #7f8c8d maybe i can find a color which gives a good contrast to the background
+    // maybe i can get it darker myself... no i don't have the pacience 
+
+    // I touched the keybord wrong with my finger it hurt a little ...
+    // yes with the broken one
+    // You can check out my Discord if you want there is noone except me until later
+    //              discord.gg/EPWxZpuhyg
+    // want to make some screenshots so i can upload them on the website
+
     // 5. Fill the page with content so it isn't taht empty
+    //
